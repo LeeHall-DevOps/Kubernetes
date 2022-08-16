@@ -15,6 +15,10 @@ For example, imagine that you are developing an application that you can run on 
 A ConfigMap is not designed to hold large chunks of data. The data stored in a ConfigMap cannot exceed 1 MiB. If you need to store settings that are larger than this limit, you may want to consider mounting a volume or use a separate database or file service.
 
 
+<p align="center">
+    <img src="../k8s-images\config-map-diagram.jpg" width="400px"/>
+</p>
+
 
 ## ConfigMap Object
 

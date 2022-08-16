@@ -18,5 +18,5 @@
 ### Services Access Diagram
 
 <p align="center">
-    <img src="../k8s-images/services-in-out.jpg" height="200px"/>
+    <img src="../k8s-images/services-in-out.jpg" height="300px"/>
 </p>

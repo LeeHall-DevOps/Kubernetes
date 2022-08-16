@@ -6,6 +6,8 @@ A ConfigMap is an API object used to store non-confidential data in key-value pa
 
 A ConfigMap allows you to decouple environment-specific configuration from your container images, so that your applications are easily portable.
 
+__!ConfigMap is for non-confiential data only!__
+
 ## Motivation for ConfigMaps
 
 Use a ConfigMap for setting configuration data separately from application code.

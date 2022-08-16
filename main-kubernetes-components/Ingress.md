@@ -7,7 +7,7 @@ Ingress exposes HTTP and HTTPS routes from outside the cluster to services withi
 - Here is a simple example where an Ingress sends all its traffic to one service:
 
 <p align="center">
-    <img src="../k8s-images\ingress_diagram.jpg" width="400px">
+    <img src="../k8s-images\ingress_diagram.jpg" width="700px">
 </p>
 
 An Ingress may be configured to give Services externally-reachable URLs, load balance traffic, terminate SSL / TLS, and offer name-based virtual hosting. An Ingress controller is responsible for fulfilling the Ingress, usually with a load balancer, though it may also configure your edge router or additional frontends to help handle the traffic.

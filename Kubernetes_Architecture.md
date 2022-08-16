@@ -1,7 +1,14 @@
 # Kubernetes **Architecture**
 
+<p align="center">
+    <img src=./k8s-images/k8s-Cluster-Diagram.jpeg width="500px"/>
+</p>
+
 - **Node** = Virtual or phyical machine
 - **Worker Nodes** = mostly just referred to as "Nodes"
+
+
+
 
 ## Kubernetes Cluster
 ---

@@ -1,33 +1,22 @@
-# Main Kubernetes components
-
-- Pod
-- ConfigMap
-- Service
-- Ingress
-- Secret
-- Deployment
-- StatefulSet
-- DaemonSet
-
-## Node and Pod
+# Node and Pod
 
 __Node__
 Virtual or phyiscal machine
 <p align="center">
-<img src="./k8s-images/node.jpg" height="200px"/>
+<img src="../k8s-images/node.jpg" height="200px"/>
 </p>
 
 __Pod__
 - __Smallest__ unit in kubernetes
 <p align="center">
-<img src="./k8s-images/pod-in-node.jpg" height="200px" width="130px"/>
+<img src="../k8s-images/pod-in-node.jpg" height="200px" width="130px"/>
 </p>
 <br>
 
 - __Abstraction__ over container
 
 <p align="center">
-<img src="k8s-images\pod-abstraction-over-contain.jpg" height="200px" />
+<img src="../k8s-images\pod-abstraction-over-contain.jpg" height="200px" />
 </p>
 
 - By using the pods you only have to interact with the Kubernetes layer.

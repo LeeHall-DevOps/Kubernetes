@@ -16,7 +16,7 @@ A ConfigMap is not designed to hold large chunks of data. The data stored in a C
 
 
 <p align="center">
-    <img src="../k8s-images\config-map-diagram.jpg" width="400px"/>
+    <img src="../k8s-images\config-map-diagram.jpg" width="700px"/>
 </p>
 
 

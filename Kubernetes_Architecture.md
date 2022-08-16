@@ -1,7 +1,7 @@
 # Kubernetes **Architecture**
 
 <p align="center">
-    <img src=./k8s-images/Better-k8s-Cluster.jpeg width="700px"/>
+    <img src="./k8s-images/Better-k8s-Cluster.jpeg" width="700px"/>
 </p>
 <br>
 

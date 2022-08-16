@@ -3,7 +3,7 @@
 - __[Nodes and pods](./nodes-and-pods.md)__
 - __[Service](./service.md)__
 - ConfigMap
-- Ingress
+- __[Ingress](./Ingress.md)__
 - Secret
 - Deployment
 - StatefulSet

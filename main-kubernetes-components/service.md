@@ -15,8 +15,17 @@
 ## Database
 - But if the application has a database attached, we don't want user to have access to the database, we use an __internal Service__ to make the connection between application and database private so only the application can access the database.
 
+- You specify the __type of Service__ on creation
+- Internal Service is the __default__ type
+
 ### Services Access Diagram
 
 <p align="center">
     <img src="../k8s-images/services-in-out.jpg" height="300px"/>
 </p>
+
+
+
+
+
+

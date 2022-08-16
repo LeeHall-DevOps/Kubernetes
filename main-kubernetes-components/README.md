@@ -2,9 +2,9 @@
 
 - __[Nodes and pods](./nodes-and-pods.md)__
 - __[Service](./service.md)__
-- ConfigMap
+- __[ConfigMap](./ConfigMap.md)__
 - __[Ingress](./Ingress.md)__
-- Secret
+- __[Secret](./secret.md)__
 - Deployment
 - StatefulSet
 - DaemonSet

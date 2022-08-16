@@ -14,6 +14,6 @@ There are three main ways for a Pod to use secret:
 
 - As __files__ in a volume mounted on one or more of it's containers.
 - As __container environment variable__.
-- By the __kubelet when pulling images for the pod.
+- By the __kubelet__ when pulling images for the pod.
 
 The Kubernetes control plane also uses Secrets; for example, bootstrap token Secrets are a mechanism to help automate node registration.

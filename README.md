@@ -10,10 +10,12 @@ Offical definition of Kubernetes
 - Developed by **Google**
 - Helps manage containerized applications in **different deployment environments**
 
+---
 
 - __[What problems does Kubernetes solves?](./What-problems-does-Kubernetes-solves/README.md)__
 
-- __[What are the **tasks** of an orchestration tool?]()__
+- __[What are the **tasks** of an orchestration tool?](./tasks-of-orchestration-tool/README.md)__
+
 ---
 
 The need for container orchestration tools

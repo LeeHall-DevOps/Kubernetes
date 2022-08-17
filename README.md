@@ -16,7 +16,6 @@
 
 - __[Kubernetes Configuration](./Kubernetes-configuration/README.md)__
 
-
 ## __[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)__
 
 Offical definition of Kubernetes

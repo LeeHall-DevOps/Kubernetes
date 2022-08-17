@@ -6,6 +6,7 @@
 - Storage on __local__ machine
 - Or __remote__, outside of the K8s cluster
 
+
 <p align="center">
-    <img src="main-kubernetes-components\MKC-images\volume-diagram.jpg">
+    <img src="./MKC-images/volume-diagram.jpg">
 </p>

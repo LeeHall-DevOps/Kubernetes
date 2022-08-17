@@ -10,7 +10,7 @@
 
 - __[What features do orchestration tools offer?](./feature-of-orchestration-tools/README.md)__
 
-- __[Kubernetes Architecture__](./Kubernetes_Architecture/README.md)__
+- __[Kubernetes Architecture](./Kubernetes_Architecture/README.md)__
 
 - __[Main Kubernetes Components](./main-kubernetes-components/README.md)__
 

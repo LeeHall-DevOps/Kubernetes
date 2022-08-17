@@ -15,7 +15,16 @@
 
 <p align="center">
     <img src="./MKC-images/1-summary.jpg" width="400px"/>
+ </p>
+ 
+<p align="center">
     <img src="./MKC-images/2-summary.jpg" width="400px"/>
+</p>
+
+<p align="center">    
     <img src="./MKC-images/3-summary.jpg" width="400px"/>
+</p>
+
+<p align="center">    
     <img src="./MKC-images/4-summary.jpg" width="400px"/>
 </p>

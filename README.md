@@ -11,9 +11,9 @@ Offical definition of Kubernetes
 - Helps manage containerized applications in **different deployment environments**
 
 
-### __[What problems does Kubernetes solves](./What-problems-does-Kubernetes-solves/README.md)__
+- __[What problems does Kubernetes solves?](./What-problems-does-Kubernetes-solves/README.md)__
 
-What are the **tasks** of an orchestration tool?
+- __[What are the **tasks** of an orchestration tool?]()__
 ---
 
 The need for container orchestration tools

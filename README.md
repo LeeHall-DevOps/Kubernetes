@@ -2,7 +2,7 @@
 
 ![Kubernetes logo](./k8s-images/k8s-logo.jpeg)
 
-## __What is Kubernetes?__
+## __[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)__
 
 Offical definition of Kubernetes
 

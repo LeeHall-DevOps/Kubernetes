@@ -24,9 +24,13 @@ The need for container orchestration tools
 ### What features do orchestration tools offer?
 ---
 - High **Availability** or no downtime
+
+
 - **Scalability** or high performance
+
 - **Disaster recovery** - backup and restore
 
-
+```
 - ## [__Kubernetes Architecture__](./Kubernetes_Architecture/README.md)
 - ## [__Main Kubernetes Components__](./main-kubernetes-components/README.md)
+```

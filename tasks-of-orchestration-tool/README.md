@@ -4,7 +4,7 @@
 
 
 ---
-<span style="font-weight:700;font-size:20px">
+<div style="font-size:20px">
 __[Kubelet](#Kubectl)__ | 
 __[Kube-shell](#kube-shell)__ | 
 __[Kubeadm](#kubeadm)__ | 
@@ -15,7 +15,8 @@ __[Kompose](#kompose)__ |
 __[Prometheus](#prometheus)__ | 
 __[Grafana](#grafana)__ | 
 __[Twistlock](#twistlock)__ 
-</span>
+</div>
+
 ---
 
 The need for container orchestration tools

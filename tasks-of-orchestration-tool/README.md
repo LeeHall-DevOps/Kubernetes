@@ -3,8 +3,7 @@
 
 ## Links
 ---
-- __[Kubelet](#Kubectl)__
-- __[Kube-shell](#kube-shell)__
+- __[Kubelet](#Kubectl)__  - __[Kube-shell](#kube-shell)__
 - __[Kubeadm](#kubeadm)__
 - __[Minikube](#minicube)__
 - __[Dashboard](#Dashboard)__

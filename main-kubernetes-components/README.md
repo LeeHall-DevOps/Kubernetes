@@ -5,6 +5,7 @@
 - __[ConfigMap](./ConfigMap.md)__
 - __[Ingress](./Ingress.md)__
 - __[Secret](./secret.md)__
+- __[Volume](./volume.md)__
 - Deployment
 - StatefulSet
 - DaemonSet

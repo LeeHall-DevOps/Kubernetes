@@ -14,6 +14,8 @@
 
 - __[Main Kubernetes Components](./main-kubernetes-components/README.md)__
 
+- __[Kubernetes Configuration](./Kubernetes-configuration/README.md)
+
 
 ## __[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)__
 

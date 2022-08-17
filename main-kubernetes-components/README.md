@@ -8,5 +8,5 @@
 - __[Volume](./volume.md)__
 - __[Deployment](./Deployment.md)__
 - __[StatefulSet](./statefulSet.md)__
-- DaemonSet
+- __[DaemonSet](./DaemonSet.md)__
 

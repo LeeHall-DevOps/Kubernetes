@@ -1,13 +1,21 @@
 # What are the tasks of an orchestration tool?
 
-<span style="font-size:1.5rem; font-weight:700;">
+<span style="font-size:32px; font-weight:700;">
     Links
 </span>
 
 ---
 
-__[Kubelet](#Kubectl)__ |  __[Kube-shell](#kube-shell)__ | __[Kubeadm](#kubeadm)__ | __[Minikube](#minicube)__ |
-__[Dashboard](#Dashboard)__ | __[Helm](#helm)__ | __[Kompose](#kompose)__ | __[Prometheus](#prometheus)__ | __[Grafana](#grafana)__ | __[Twistlock](#twistlock)__
+__[Kubelet](#Kubectl)__ | 
+__[Kube-shell](#kube-shell)__ | 
+__[Kubeadm](#kubeadm)__ | 
+__[Minikube](#minicube)__ | 
+__[Dashboard](#Dashboard)__ | 
+__[Helm](#helm)__ | 
+__[Kompose](#kompose)__ | 
+__[Prometheus](#prometheus)__ | 
+__[Grafana](#grafana)__ | 
+__[Twistlock](#twistlock)__ 
 
 ---
 

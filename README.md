@@ -30,7 +30,8 @@ The need for container orchestration tools
 
 - **Disaster recovery** - backup and restore
 
-```
+---
+
 - ## [__Kubernetes Architecture__](./Kubernetes_Architecture/README.md)
 - ## [__Main Kubernetes Components__](./main-kubernetes-components/README.md)
-```
+---

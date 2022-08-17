@@ -1,7 +1,7 @@
 # [DaemonSet](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
 
 <p align="center">
-    <img src="./MKC-images/daemonset-diagram.jpeg">
+    <img src="./MKC-images/daemonset-diagram.jpeg" width="400px">
 </p>
 
 ## Links

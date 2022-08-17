@@ -3,13 +3,27 @@
 
 ## Links
 ---
-- __[Kubelet](#Kubectl)__   - __[Kube-shell](#kube-shell)__
-- __[Kubeadm](#kubeadm)__   - __[Minikube](#minicube)__
-- __[Dashboard](#Dashboard)__   - __[Helm](#helm)__
-- __[Kompose](#kompose)__   - __[Prometheus](#prometheus)__
-- __[Grafana](#grafana)__   - __[Twistlock](#twistlock)__
+- __[Kubelet](#Kubectl)__
+- __[Kube-shell](#kube-shell)__
+- __[Kubeadm](#kubeadm)__
+- __[Minikube](#minicube)__
+- __[Dashboard](#Dashboard)__
+- __[Helm](#helm)__
+- __[Kompose](#kompose)__
+- __[Prometheus](#prometheus)__
+- __[Grafana](#grafana)__
+- __[Twistlock](#twistlock)__
 
 ---
+
+The need for container orchestration tools
+
+- Trend from Monolith to Microservices
+
+- Increased usage of containers
+
+- Demand for a proper way of managing those hundreds of containers
+
 ## Kubectl
 ---    
 Kubectl is a command-line tool that is used to interact with the Kubernetes cluster. It provides a command-line interface to manage the Kubernetes clusters like checking node status, deploying and deleting pods, deployments, services, namespaces, etc.
@@ -53,13 +67,3 @@ It is a visualization tool used to visualize resource utilization of Kubernetes 
 ## Twistlock
 ---
 It is a security tool that scans our application deployed on the Kubernetes cluster for vulnerabilities and compliance issues. It includes hosts, containers, and images. It has a built-in firewall that protects front end microservices from outside attacks.
-
-
-
-The need for container orchestration tools
-
-- Trend from Monolith to Microservices
-
-- Increased usage of containers
-
-- Demand for a proper way of managing those hundreds of containers

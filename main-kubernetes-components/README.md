@@ -6,7 +6,7 @@
 - __[Ingress](./Ingress.md)__
 - __[Secret](./secret.md)__
 - __[Volume](./volume.md)__
-- Deployment
-- StatefulSet
+- __[Deployment](./Deployment.md)__
+- __[StatefulSet](./statefulSet.md)__
 - DaemonSet
 

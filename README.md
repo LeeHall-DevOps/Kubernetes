@@ -4,15 +4,15 @@
 
 ## Links
 
-- ## __[What problems does Kubernetes solves?](./What-problems-does-Kubernetes-solves/README.md)__
+- __[What problems does Kubernetes solves?](./What-problems-does-Kubernetes-solves/README.md)__
 
-- ## __[What are the **tasks** of an orchestration tool?](./tasks-of-orchestration-tool/README.md)__
+- __[What are the **tasks** of an orchestration tool?](./tasks-of-orchestration-tool/README.md)__
 
-- ## __[What features do orchestration tools offer?](./feature-of-orchestration-tools/README.md)__
+- __[What features do orchestration tools offer?](./feature-of-orchestration-tools/README.md)__
 
-- ## [__Kubernetes Architecture__](./Kubernetes_Architecture/README.md)
+- __[Kubernetes Architecture__](./Kubernetes_Architecture/README.md)__
 
-- ## [__Main Kubernetes Components__](./main-kubernetes-components/README.md)
+- __[Main Kubernetes Components](./main-kubernetes-components/README.md)__
 
 
 ## __[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)__

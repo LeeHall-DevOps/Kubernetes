@@ -47,3 +47,26 @@ To create the database type `kubectl apply -f mongo.yaml`
 - To see secret status
 `kubectl get secret`
 
+- To get a detailed output of service
+`kubectl describe service <service name>`
+
+- To get a detailed pod status
+`kubectl describe pod <pod name>`
+
+- To view logs of pods
+`kubectl get logs <pod name>`
+
+## Access WebApp in browser
+
+- To configure the service
+`kubectl get svc`
+
+- To get the ip of the minikube IP
+<!-- This IP allows us to access the container via the browser -->
+`minikube ip`
+
+- To get minikube status
+`kubectl get node`
+
+- For detailed minikube status including IP
+`kubectl get node -o wide
